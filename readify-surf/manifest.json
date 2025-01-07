@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Readify Toggle",
+    "version": "1.0",
+    "description": "Toggle Readify mode for the current tab.",
+    "permissions": ["tabs", "contextMenus"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Toggle Readify",
+      "default_icon": {
+        "16": "icons/readify-16.png",
+        "48": "icons/readify-48.png",
+        "128": "icons/readify-128.png"
+      }
+    },
+    "icons": {
+      "16": "icons/readify-16.png",
+      "48": "icons/readify-48.png",
+      "128": "icons/readify-128.png"
+    }
+  }
+  

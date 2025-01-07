@@ -1,0 +1,2 @@
+reader-view-16.png, reader-view-48.png, and reader-view-128.png
+eventually append a bit of bullshit to readify's logo, but for now just steal it outright. recolor or sumn.
