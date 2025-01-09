@@ -5,7 +5,7 @@
 							|_|  \___|\__,_|\__,_|_|_|  \__, |     |___/\__,_|_|  |_|  
 							                            |___/                          
 
-										+= READIFY-SURF v.1.0 =+
+										+= READIFY-SURF v.1.1 =+
 							                   
 	+ readify-surf is a continuation of a prior, more simple tool "readify-click". 
 		readify-surf allows you to toggle viewing the current page in readify.me, allowing you to 
